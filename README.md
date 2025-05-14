@@ -1,6 +1,7 @@
 # Rekrutacja 
 
-Repozytorium zawiera zestaw zadań live-coding na stanowisko Java Developera. Zadania opieraja się na gotowym szkielecie aplikacji w Spring Boocie.
+Repozytorium zawiera zestaw zadań live-coding na stanowisko Java Developera. 
+Zadania opieraja się na gotowym szkielecie aplikacji w Spring Boocie.
 
 ### Stack
 - Java 21
